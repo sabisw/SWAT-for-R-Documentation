@@ -3,7 +3,9 @@ SWAT provides an R scripting interface to SAS Cloud Analytic Services (CAS). Thi
 # Installation
 [Link to Installation information]
 # Usage
-[Enter information]
+[as.casDataFrame](https://github.com/sabisw/r-swat-doc/wiki/as.casTable)
+# Other Resources
+[Insert here]
 # License Information
 [Link to License Info]
 # Copyright
