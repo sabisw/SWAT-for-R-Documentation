@@ -6,9 +6,12 @@ See [Installation and Configuration Instructions](https://github.com/sassoftware
 
 # Usage
 [as.casDataFrame](https://github.com/sabisw/r-swat-doc/wiki/as.casTable)
+
 # Other Resources
 * [Getting Started with SAS(R) Viya(R) 3.4 for R](https://documentation.sas.com/?cdcId=pgmcdc&cdcVersion=8.11&docsetId=caspg3r&docsetTarget=titlepage.htm)
+
 # License Information
 [Link to License Info]
+
 # Copyright
 [Insert Copyright Info]
