@@ -8,3 +8,4 @@ toc:
   github_document:
     toc: true
     toc_depth: 2
+install.packages("rmarkdown")
