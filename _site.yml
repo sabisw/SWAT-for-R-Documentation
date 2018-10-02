@@ -1,0 +1,11 @@
+name: "SWAT-for-R-Documentation"
+output_dir: "_site"
+include: ["import.R"]
+exclude: ["docs.txt"]
+navbar:
+  title: "SWAT for R Documentation"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "SWAT Reference"
+      href: about.html
