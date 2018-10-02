@@ -2,10 +2,9 @@ name: "SWAT-for-R-Documentation"
 output_dir: "_site"
 include: ["import.R", "import.Rd"]
 exclude: ["docs.txt"]
-navbar:
-  title: "SWAT for R Documentation"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "SWAT Reference"
-      href: about.html
+toc:
+  title: "Habits"
+  output:
+  github_document:
+    toc: true
+    toc_depth: 2
